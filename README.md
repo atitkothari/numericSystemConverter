@@ -16,6 +16,8 @@ You can find it here: https://croretobillion.netlify.app/
 
 It also shows value in Rs and \$ at the same time, using the real-time exchange rate from here: https://exchangeratesapi.io/
 
+I worte this in a span of couple of hours so need to refactor code. I'll get to that someday🤞
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
