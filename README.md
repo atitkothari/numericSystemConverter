@@ -1,5 +1,7 @@
 There are two numbering systems that I have to deal with daily.
+
 One is the Indian numbering system, and the other is the western system.
+
 Indian system is in thousands, lakhs, crore, lakh-crore/arab, while the western system is in thousands, millions, billions, trillions.
 Then there is the comma!
 10 lakh is equal to 1 million but expressed as 10,00,000 in the Indian system and 1,000,000 in the western system.
