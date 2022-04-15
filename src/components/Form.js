@@ -23,10 +23,10 @@ export class Form extends Component {
   componentDidMount() {
     var number = "100000";
 
-    fetch("https://api.exchangeratesapi.io/latest?base=USD")
+    fetch("https://free.currconv.com/api/v7/convert?q=USD_INR&compact=ultra&apiKey=4b1cf5f39793bb55e09b")
       .then((res) => res.json())
       .then((data) => {
-        this.setState({ conversionRate: data.rates.INR });
+        this.setState({ conversionRate: data.USD_INR });
         var i = this.IndianNumberSystem(number);
         var w = this.WesternNumberSystem(number);
         var inrToUsd =
